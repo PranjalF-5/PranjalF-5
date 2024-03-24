@@ -1,7 +1,7 @@
 [![MasterHead]( https://i.pinimg.com/originals/41/fe/86/41fe86db04e5fc00c896d92bddfe99e1.jpg)](https://www.behance.net/infinityyou)
 
 <h1 align="center">Pranjal Mayank</h1>
-<h3 align="center">I alone am not the honoured one.</h3>
+<h3 align="center">"Throughout Heaven and Earth, I Alone Am The Honored One"</h3>
 <img align="right" alt="Coding" width="400" src="https://ih1.redbubble.net/image.5151900759.5770/flat,750x,075,f-pad,750x1000,f8f8f8.jpg">
 
 
